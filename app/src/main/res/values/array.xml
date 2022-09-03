@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="road">
+        <item>学院路</item>
+        <item>联想路</item>
+        <item>医院路</item>
+        <item>幸福路</item>
+        <item>停车场</item>
+    </string-array>
+    <string-array name="carpay">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
